@@ -1,6 +1,6 @@
 # Rails on Replit
 
-This is a template to get you started with Rails on Replit. It's ready to go so you can just hit run and start coding!
+This is a template I use to get starter learning and building with Ruby on Rails.  It's ready to go so you can just hit run and start coding!
 
 This template was generated using `rails new` (after you install the `rails` gem from the packager sidebar) so you can always do that if you prefer to set it up from scratch. We only made a couple changes to make to run it on Replit:
 
